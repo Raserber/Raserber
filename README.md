@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Raserber
-- 👀 I’m interested in many things (front-end dev, document layout with LaTeX, embedded systems in C ...)
 - 🌱 I’m currently studying in Industrial Electrical and Computer Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 contact@raserber.fr
 
 <!---
