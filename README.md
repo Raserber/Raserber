@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raserber
-- 🌱 I’m currently studying in Industrial Electrical and Computer Engineering
+- 🌱 I’m currently studying Industrial Electrical and Computer Engineering
 - 📫 contact@raserber.fr
 
 <!---
