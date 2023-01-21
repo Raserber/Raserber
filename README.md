@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raserber
 
-- 🌱 I’m currently studying Industrial Electrical and Computer Engineering
+- 🌱 I’m currently studying Electrical Engineering and Industrial Computing
 - 💻 LaTeX, Embedded C programming, HTML/CSS/JS (Vue, Ionic, JQuery), Python and some shell scripts
 - 📫 contact@raserber.fr
 
